@@ -1,6 +1,6 @@
 # FakeGalaxy
 
-<img src="/Assets/Header.gif">
+<img src="/Assets/Header.jpg">
 
 Coded in C++
 
@@ -23,3 +23,17 @@ The Final boss is coded in such a way that when its life falls to certain points
 ## How to Play
 Open Project on XCode in order to run.
 Use Arrow Keys to control the player. Shooting is automatic
+
+## Examples
+
+* Different Wave Systems
+<img src="/Assets/wave1.png">
+<img src="/Assets/wave2.png">
+<img src="/Assets/wave3.png">
+<img src="/Assets/wave4.png">
+<hr> 
+* Boss Fight
+<img src="/Assets/boss.png">
+<hr>
+* High Scores
+<img src="/Assets/hs.png">
