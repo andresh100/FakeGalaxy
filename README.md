@@ -1,6 +1,6 @@
 # FakeGalaxy
 
-<img src="/Assets/Header.jpg">
+<img src="/Assets/header.jpg">
 
 Coded in C++
 
@@ -25,15 +25,14 @@ Open Project on XCode in order to run.
 Use Arrow Keys to control the player. Shooting is automatic
 
 ## Examples
-
-* Different Wave Systems
+Different Wave Systems
 <img src="/Assets/wave1.png">
 <img src="/Assets/wave2.png">
 <img src="/Assets/wave3.png">
-<img src="/Assets/wave4.png">
+<img src="/Assets/wave%204.png">
 <hr> 
-* Boss Fight
+Boss Fight
 <img src="/Assets/boss.png">
 <hr>
-* High Scores
+High Scores
 <img src="/Assets/hs.png">
