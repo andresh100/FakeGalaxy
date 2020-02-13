@@ -25,7 +25,7 @@ Open Project on XCode in order to run.
 Use Arrow Keys to control the player. Shooting is automatic
 
 ## Examples
-Different Wave Systems
+<p>Different Wave Systems</p>
 <img src="/Assets/wave1.png">
 <img src="/Assets/wave2.png">
 <img src="/Assets/wave3.png">
